@@ -1,0 +1,6 @@
+           Length Class      Mode
+data.clust 9      data.frame list
+desc.var   3      catdes     list
+desc.axes  3      catdes     list
+desc.ind   2      -none-     list
+call       7      -none-     list
